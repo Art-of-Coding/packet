@@ -30,8 +30,8 @@ export const TypeString = [
   'rr',
 
   // Monitoring
-  'e',
+  'm',
 
   // Events
-  'm'
+  'e'
 ]
